@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e94e1ddf-c1c7-4cd0-b206-712e2a9f8d69" name="Changes" comment="">
+    <list default="true" id="e94e1ddf-c1c7-4cd0-b206-712e2a9f8d69" name="Changes" comment="Se creo clase Student">
+      <change afterPath="$PROJECT_DIR$/src/Account_logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account_main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestStudent.java" afterDir="false" />
@@ -33,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestStudent" />
@@ -63,6 +65,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677158114120</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se creo clase Student">
+      <created>1677785196002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677785196002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se creo clase Student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se creo clase Student" />
   </component>
 </project>
