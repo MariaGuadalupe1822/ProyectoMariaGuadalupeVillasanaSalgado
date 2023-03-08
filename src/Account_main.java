@@ -33,6 +33,5 @@ public class Account_main {
             System.out.println(" Ingrese la cantidad");
             num1 = entrada.nextInt();
         }
-
     }
 }
