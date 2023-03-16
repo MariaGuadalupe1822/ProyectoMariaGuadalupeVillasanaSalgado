@@ -14,10 +14,10 @@ public class TennisShoes {
         return mark;
     }
 
-    public TennisShoes(String name, int amount,char sex, String mark, byte size, String color, int age) {
-       this.name=name;
-       this.amount=amount;
-       this.sex=sex;
+    public TennisShoes(String name, int amount, char sex, String mark, byte size, String color, int age) {
+        this.name = name;
+        this.amount = amount;
+        this.sex = sex;
         this.mark = mark;
         this.size = size;
         this.color = color;
@@ -25,6 +25,7 @@ public class TennisShoes {
 
 
     }
+
     public String getName() {
         return name;
     }
@@ -83,9 +84,9 @@ public class TennisShoes {
         System.out.println("Cantidad " + getAmount());
         System.out.println("Sexo " + getSex());
         System.out.println("Marca " + getMark());
-        System.out.println("Talla "+getSize());
-        System.out.println("Color "+getColor());
-        System.out.println("Edad "+getAge());
+        System.out.println("Talla " + getSize());
+        System.out.println("Color " + getColor());
+        System.out.println("Edad " + getAge());
 
         return "";
     }
